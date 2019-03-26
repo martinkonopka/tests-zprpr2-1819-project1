@@ -1,0 +1,6 @@
+Sekvenciu sa podarilo nacitat
+Najdlhsie useky opakujucich sa nukleotidov: 3
+A 6
+A 17
+C 2
+T 13

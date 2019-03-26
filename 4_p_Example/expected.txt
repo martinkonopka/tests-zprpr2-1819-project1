@@ -1,0 +1,5 @@
+Sekvenciu sa podarilo nacitat
+1 ---ACTTG
+6 TTGACGGA
+10 CGGACCCA
+14 CCCACG--
