@@ -18,4 +18,4 @@ Each test scenario contains:
 * `DNAsekvencia.txt` - file with DNA sequence.
 
 
-To run test scenarios with [Simple Tester](https://github.com/martinkonopka/simple-tester), copy test scenarios to the `tests` directory in the tester.
+To run test scenarios with [Simple C Program Tester](https://github.com/martinkonopka/simple-c-program-tester), copy test scenarios to the `tests` directory in the tester.
