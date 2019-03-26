@@ -1,0 +1,46 @@
+n
+v
+1 20
+v
+2 20
+v
+0 20
+v
+1 21
+h
+o
+l
+4 4
+accc
+v
+1 10
+h
+p
+4
+GTAG
+o
+l
+14 5
+tcagg
+v
+1 10
+v
+10 20
+h
+p
+3
+gat
+l
+6 1
+a
+o
+p
+3
+cag
+p
+3
+ccc
+p
+3
+ttt
+k

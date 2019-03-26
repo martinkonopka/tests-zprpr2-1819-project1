@@ -1,0 +1,35 @@
+Sekvenciu sa podarilo nacitat
+TCC
+CCGa
+CGaaat
+TCCGaaattcACgtAgccat
+CGaaattcACgtAgccatTatcaGgagGAaTTTCCGGt
+Gaaattc
+TCCGaaattcACgtAgccatTatcaGgagGAaTTTCCGGttgtccAcCAACCcggGCaaactCAAGGAaGtcATaGCtCCacggTagTgagAgaGAgTGG
+Zadanu podsekvenciu nie je mozne vypisat
+A: 29
+C: 24
+G: 27
+T: 20
+11 TTCACGTA
+46 TCCACCAA
+50 CCAACCCG
+60 CAAACTCA
+81 TCCACGGT
+48 CACCAACCCGG
+60 CAAACTCAA
+TCCGaaattcACgtAgccatTatcaGgagGAaTTTCCGGttgtccAcCAACCcggGCaaactCAAGGAaGtcATaGCtCCacggTagTgagAgaGAgTGG
+Najdlhsie useky opakujucich sa nukleotidov: 3
+A 5
+A 58
+C 51
+G 54
+T 33
+13 CACGTAGC
+39 CCGGTTGT
+42 GTTGTCCA
+70 GAAGTCAT
+84 ACGGTAGT
+87 GTAGTGAG
+97 AGAGTGG-
+11 TTCACGTAGC

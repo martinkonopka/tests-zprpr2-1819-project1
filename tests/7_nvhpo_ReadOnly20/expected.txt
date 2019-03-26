@@ -1,0 +1,16 @@
+Sekvenciu sa podarilo nacitat
+TCC
+CCGa
+CGaaat
+TCCGaaattcACgtAgccat
+Zadanu podsekvenciu nie je mozne vypisat
+Gaaattc
+A: 6
+C: 6
+G: 3
+T: 5
+11 TTCACGTA
+Najdlhsie useky opakujucich sa nukleotidov: 3
+A 5
+13 CACGTAGC
+11 TTCACGTAGC

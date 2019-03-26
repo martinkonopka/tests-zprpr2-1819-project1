@@ -1,0 +1,5 @@
+Sekvenciu sa podarilo nacitat
+AacGtGCC
+Podsekvencia vlozena
+AacGgttGCC
+Zadanu podsekvenciu nie je mozne vypisat
